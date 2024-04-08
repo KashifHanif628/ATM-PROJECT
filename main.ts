@@ -1,6 +1,6 @@
-#! /use/bin/env node
+#! /usr/bin/env node
 
-import inquirer from "inquirer"
+import inquirer from "inquirer";
 
 let myBalance = 10000; // Dollar
 const  myPin = 1234;
